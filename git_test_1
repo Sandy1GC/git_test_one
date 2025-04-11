@@ -1,1 +1,2 @@
 
+git log --pretty=format:"%an" -- path/to/directory | sort | uniq -c | sort -nr
