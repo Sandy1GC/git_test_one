@@ -9,3 +9,6 @@ git config --global user.email whatever@mail.com
 
 git config --global core.editor code
 
+git config --list
+
+
