@@ -3,4 +3,9 @@ git log --pretty=format:"%an" -- path/to/directory | sort | uniq -c | sort -nr
 
 git log --diff-filter=A -- path/to/directory
 
+ git config --global user.name “Sandy1GC"
+
+git config --global user.email whatever@mail.com
+
+git config --global core.editor code
 
