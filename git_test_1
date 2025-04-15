@@ -11,4 +11,6 @@ git config --global core.editor code
 
 git config --list
 
+git branch -f main HEAD~1
+
 
