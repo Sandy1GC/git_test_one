@@ -20,3 +20,13 @@ git branch -f some_branch HEAD~3
 git branch -f
 
 git branch -f main HEAD^
+
+git branch -f main C7
+
+
+
+
+
+
+
+
