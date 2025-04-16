@@ -16,3 +16,7 @@ git branch -f main HEAD~1
 git checkout HEAD~4
 
 git branch -f some_branch HEAD~3
+
+git branch -f
+
+git branch -f main HEAD^
