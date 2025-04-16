@@ -13,4 +13,5 @@ git config --list
 
 git branch -f main HEAD~1
 
+git checkout HEAD~4
 
