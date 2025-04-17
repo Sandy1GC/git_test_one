@@ -25,7 +25,7 @@ git branch -f main C7
 
 git checkout -b Bobby
 
-
+git checkout HEAD^
 
 
 
