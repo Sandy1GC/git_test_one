@@ -27,7 +27,7 @@ git checkout -b Bobby
 
 git checkout HEAD^
 
-
+git branch -f command
 
 
 
