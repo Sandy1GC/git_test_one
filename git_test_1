@@ -32,7 +32,7 @@ git branch -f command
 git reset HEAD~1
 git revert HEAD
 
-
+git cherry-pick C3 C4 C7
 
 
 
