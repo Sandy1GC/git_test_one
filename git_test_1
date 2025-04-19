@@ -34,7 +34,8 @@ git revert HEAD
 
 git cherry-pick C3 C4 C7
 
-
+git rebase -i main
+git rebase main_2 main
 
 
 
