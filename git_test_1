@@ -37,7 +37,10 @@ git cherry-pick C3 C4 C7
 git rebase -i main
 git rebase main_2 main
 
-
+git rebase -i HEAD~2
+git commit --amend
+git rebase -i HEAD~2
+git rebase caption main
 
 
 
