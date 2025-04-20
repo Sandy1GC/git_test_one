@@ -50,6 +50,13 @@ git checkout HEAD~
 git checkout HEAD^2
 git checkout HEAD~2
 
+git checkout Joe
+git cherry-pick C4 C3 C2
+git checkout Bobby
+git cherry-pick C5 C4 C3 C2
+git branch -f Monty C2
+
+
 
 
 
