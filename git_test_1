@@ -56,7 +56,8 @@ git checkout Bobby
 git cherry-pick C5 C4 C3 C2
 git branch -f Monty C2
 
-
+git pull
+git pull --rebase
 
 
 
