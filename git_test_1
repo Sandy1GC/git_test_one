@@ -46,6 +46,12 @@ git describe C1
 
 git checkout HEAD~^2~2
 
+git checkout HEAD~
+git checkout HEAD^2
+git checkout HEAD~2
+
+
+
 
 
 
