@@ -44,7 +44,7 @@ git rebase caption main
 
 git describe C1
 
-
+git checkout HEAD~^2~2
 
 
 
