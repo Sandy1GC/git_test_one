@@ -73,5 +73,5 @@ git branch -u o/main foo
 git push origin main
 git push origin foo
 
-
+git push origin <source>:<destination>
 
