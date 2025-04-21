@@ -59,6 +59,9 @@ git branch -f Monty C2
 git pull
 git pull --rebase
 
+git branch -f main original/main
+git checkout -b feature C2
+git push origin feature 
 
 
 
