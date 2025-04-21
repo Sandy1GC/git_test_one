@@ -66,6 +66,7 @@ git push origin feature
 git pull --rebase
 git push
 
+git checkout -b foo o/main
 
 
 
