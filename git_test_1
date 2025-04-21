@@ -63,6 +63,9 @@ git branch -f main original/main
 git checkout -b feature C2
 git push origin feature 
 
+git pull --rebase
+git push
+
 
 
 
