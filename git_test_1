@@ -75,3 +75,6 @@ git push origin foo
 
 git push origin <source>:<destination>
 
+git push origin main:new_branch
+
+
