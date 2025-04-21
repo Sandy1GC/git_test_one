@@ -80,6 +80,13 @@ git push origin main:new_branch
 git push origin :foo
 git fetch origin :bar
 
+git pull origin foo
+git fetch origin foo; git merge o/foo
+
+git pull origin bar:bugFix
+git fetch origin bar:bugFix; git merge bugFix
+
+
 
 
 
