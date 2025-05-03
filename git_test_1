@@ -88,6 +88,8 @@ git fetch origin bar:bugFix; git merge bugFix
 
 git commit -m "fix(auth): correct token validation logic to prevent login errors"
 
+git push origin <your-branch-name>
+
 
 
 
