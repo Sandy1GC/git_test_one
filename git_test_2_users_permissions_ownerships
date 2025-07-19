@@ -16,6 +16,12 @@ usermod -g Texas Boby
 "New secondary group for Boby"
 usermod -G Florida Boby
 
-
-
+This command replaces all existing secondary groups.
+If Boby is already part of other groups,
+they will be removed unless specified together.
+***
+usermod -aG Florida Boby
+-a: append (add) without removing existing groups.
+-G: specify the secondary group.
+***
 
