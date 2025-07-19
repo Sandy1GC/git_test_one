@@ -26,3 +26,16 @@ usermod -aG Florida Boby
 ***
 "Set the password for Boby"
 passwd Boby
+***
+
+"Change file's owner"
+chown Boby ./required_file.log
+
+"Change file group"
+chgrp Texas ./required_file.log
+
+
+
+
+
+
