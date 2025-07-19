@@ -10,6 +10,12 @@ useradd Joe
 id Boby 
 id Joe
 
-"Primary group for Boby"
+"New primary group for Boby"
 usermod -g Texas Boby
+
+"New secondary group for Boby"
+usermod -G Florida Boby
+
+
+
 
