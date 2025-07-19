@@ -4,3 +4,8 @@ groupadd Florida
 
 cat /etc/group
 
+useradd Boby
+useradd Joe
+
+id Boby 
+id Joe
