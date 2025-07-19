@@ -9,3 +9,7 @@ useradd Joe
 
 id Boby 
 id Joe
+
+"Primary group for Boby"
+usermod -g Texas Boby
+
