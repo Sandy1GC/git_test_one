@@ -34,7 +34,8 @@ chown Boby ./required_file.log
 "Change file group"
 chgrp Texas ./required_file.log
 
-
+"Change owner and group"
+chown Boby:Florida ./required_file.log
 
 
 
