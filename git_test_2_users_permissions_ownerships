@@ -40,4 +40,23 @@ chown Boby:Florida ./required_file.log
 "Change more than one"
 chown Boby:Florida ./required_file.log ./required_folder
 
+***
+
+"Read, write, execute"
+chmod 777 ./required_file.log 
+
+"Full acess for the owner, read-only for the group and other us."
+chmod 744 ./required_file.log
+
+"Full acess for the owner, no acess for the group and other us."
+chmod 700 ./required_file.log
+
+"Only read acess for anybody"
+chmod 444 ./required_file.log
+
+
+
+
+
+
 
